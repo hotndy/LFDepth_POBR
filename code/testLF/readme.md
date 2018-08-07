@@ -1,1 +1,1 @@
-testing LF images
+LF images for testing.
