@@ -1,6 +1,6 @@
 This folder contains results for the HCI dataset.
 
-We copy the PSNR table, and the parameters used for the results listed in the table.
+The disparity error table (measured in percentage of pixels with error larger than 0.1 pixels) for the testing data from the HCI dataset.
 
 <p align="center">
 <img src="https://github.com/hotndy/LFDepth_POBR/blob/master/HCI_outputs/DpError0.1.png" width="800px"/>
